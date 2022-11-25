@@ -20,3 +20,15 @@
 
 * `git pull` to sync Github changes to your local computer
 * `git push` to sync your local changes to Github
+
+## Complete work flow
+
+0. Do `git pull` to make sure you are working with the latest version
+1. Work on your thing
+2. Track local changes with `git add .` or `git add FILENAME`
+3. Commit changes with `git commit -m MESSAGE`
+4. Sync changes to remote with `git push`
+
+## Tools with graphical interface
+
+* GitHub Desktop
